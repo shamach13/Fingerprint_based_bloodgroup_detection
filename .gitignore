@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Models (optional)
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
